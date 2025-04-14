@@ -1,0 +1,7 @@
+version: 5.3.1
+steps:
+  - prompt: Focus the browser window.
+  - prompt: Click on the "Sign in" button.
+  - prompt: >-
+      Assert that the sign-in page is displayed or that a sign-in prompt
+      appears.

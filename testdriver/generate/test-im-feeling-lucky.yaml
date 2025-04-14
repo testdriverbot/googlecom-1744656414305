@@ -1,0 +1,6 @@
+version: 5.3.1
+steps:
+  - prompt: Focus the browser window.
+  - prompt: Type a search term into the search bar.
+  - prompt: Click the "I'm Feeling Lucky" button.
+  - prompt: Assert that the browser navigates directly to the first result.
